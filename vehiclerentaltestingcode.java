@@ -1,4 +1,4 @@
-student id = 22059189
+// student id = 22059189
 public class VehicleRentalSystemTest {
 
     @Test
